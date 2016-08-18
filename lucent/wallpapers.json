@@ -1,254 +1,28 @@
-[
-	{
-		"full_src": "wall_1.png",
-		"thumb_src": "wall_1_thumb.jpg",
-		"title": "Faded Lucent Tracks",
-		"byline": "by the1dynasty",
-		"file_size": 603844
-	},
-	{
-		"full_src": "star_roots.png",
-		"thumb_src": "star_roots_thumb.png",
-		"title": "Star Roots",
-		"byline": "by the1dynasty",
-		"file_size": 857529
-	},
-	{
-		"full_src": "star_roots_lucent.png",
-		"thumb_src": "star_roots_lucent_thumb.png",
-		"title": "Star Roots Lucent",
-		"byline": "by the1dynasty",
-		"file_size": 877834
-	},
-	{
-		"full_src": "lucent_bokeh.png",
-		"thumb_src": "lucent_bokeh_thumb.png",
-		"title": "Lucent Bokeh",
-		"byline": "by the1dynasty",
-		"file_size": 2137374
-	},
-	{
-		"full_src": "tiger_1.png",
-		"thumb_src": "tiger_1_thumb.png",
-		"title": "Tiger Large",
-		"byline": "by diosdado_artista",
-		"file_size": 3829984
-	},
-	{
-		"full_src": "tiger_1-2.png",
-		"thumb_src": "tiger_1-2_thumb.png",
-		"title": "Star Roots Lucent",
-		"byline": "by diosdado_artista",
-		"file_size": 388907
-	},
-	{
-		"full_src": "green_rise.png",
-		"thumb_src": "green_rise_thumb.png",
-		"title": "Green Rise",
-		"byline": "by the1dynasty",
-		"file_size": 1005692
-	},
-	{
-		"full_src": "mosaic_nebula.png",
-		"thumb_src": "mosaic_nebula_thumb.png",
-		"title": "Mosaic Nebula",
-		"byline": "by the1dynasty",
-		"file_size": 1391344
-	},
-	{
-		"full_src": "hexicon_pixel.png",
-		"thumb_src": "hexicon_pixel_thumb.png",
-		"title": "Hexicon Pixel",
-		"byline": "by the1dynasty",
-		"file_size": 32515
-	},
-	{
-		"full_src": "holo_blend.png",
-		"thumb_src": "holo_blend_thumb.png",
-		"title": "Holo Blend",
-		"byline": "by the1dynasty",
-		"file_size": 820950
-	},
-	{
-		"full_src": "holo_colors.png",
-		"thumb_src": "holo_colors_thumb.png",
-		"title": "Holo Colors",
-		"byline": "by the1dynasty",
-		"file_size": 187167
-	},
-	{
-		"full_src": "gradient_cubed.png",
-		"thumb_src": "gradient_cubed_thumb.png",
-		"title": "Gradient Cubed",
-		"byline": "by the1dynasty",
-		"file_size": 3464964
-	},
-	{
-		"full_src": "scattered_abb_blurred.png",
-		"thumb_src": "scattered_abb_blurred_thumb.png",
-		"title": "Scattered ABB Blurred",
-		"byline": "by the1dynasty",
-		"file_size": 879292
-	},
-	{
-		"full_src": "scattered_abb_traced.png",
-		"thumb_src": "scattered_abb_traced_thumb.png",
-		"title": "Scattered ABB Traced",
-		"byline": "by the1dynasty",
-		"file_size": 1074453
-	},
-	{
-		"full_src": "scattered_abb.png",
-		"thumb_src": "scattered_abb_thumb.png",
-		"title": "Scattered ABB",
-		"byline": "by the1dynasty",
-		"file_size": 597037
-	},
-	{
-		"full_src": "hexicon_stackz.png",
-		"thumb_src": "hexicon_stackz_thumb.png",
-		"title": "Hexicon Stackz",
-		"byline": "by the1dynasty",
-		"file_size": 537735
-	},
-	{
-		"full_src": "cubed_chaos.png",
-		"thumb_src": "cubed_chaos_thumb.png",
-		"title": "Cubed Chaos",
-		"byline": "by the1dynasty",
-		"file_size": 676389
-	},
-	{
-		"full_src": "cubed_flat.png",
-		"thumb_src": "cubed_flat_thumb.png",
-		"title": "Cubed Flat",
-		"byline": "by the1dynasty",
-		"file_size": 304233
-	},
-	{
-		"full_src": "cubed_linear.png",
-		"thumb_src": "cubed_linear_thumb.png",
-		"title": "Cubed Linear",
-		"byline": "by the1dynasty",
-		"file_size": 620679
-	},
-	{
-		"full_src": "cubed_mosaic.png",
-		"thumb_src": "cubed_mosaic_thumb.png",
-		"title": "Cubed Mosaic",
-		"byline": "by the1dynasty",
-		"file_size": 726453
-	},
-	{
-		"full_src": "cubed_scattered.png",
-		"thumb_src": "cubed_scattered_thumb.png",
-		"title": "Cubed Scattered",
-		"byline": "by the1dynasty",
-		"file_size": 465038
-	},
-	{
-		"full_src": "wall_2.png",
-		"thumb_src": "wall_2_thumb.jpg",
-		"title": "Lucent Tracks - Desaturated",
-		"byline": "by the1dynasty",
-		"file_size": 503808
-	},
-	{
-		"full_src": "wall_3.png",
-		"thumb_src": "wall_3_thumb.png",
-		"title": "Lucent Dots",
-		"byline": "by the1dynasty",
-		"file_size": 1159168
-	},
-	{
-		"full_src": "wall_4.png",
-		"thumb_src": "wall_4_thumb.jpg",
-		"title": "My Sky",
-		"byline": "by the1dynasty",
-		"file_size": 1312652
-	},
-	{
-		"full_src": "wall_5.png",
-		"thumb_src": "wall_5_thumb.jpg",
-		"title": "Lucent Tracks",
-		"byline": "by the1dynasty",
-		"file_size": 290124
-	},
-	{
-		"full_src": "wall_6.png",
-		"thumb_src": "wall_6_thumb.jpg",
-		"title": "Faded Lucent Tracks - Day",
-		"byline": "by the1dynasty",
-		"file_size": 867278
-	},
-	{
-		"full_src": "blurry_squares.png",
-		"thumb_src": "blurry_squares_thumb.png",
-		"title": "Blurred Lucent ²",
-		"byline": "by the1dynasty",
-		"file_size": 1165730
-	},
-	{
-		"full_src": "wall_7.png",
-		"thumb_src": "wall_7_thumb.jpg",
-		"title": "Lucent ²",
-		"byline": "by the1dynasty",
-		"file_size": 130499
-	},
-	{
-		"full_src": "wall_8.jpg",
-		"thumb_src": "wall_8_thumb.jpg",
-		"title": "Stars & Dust",
-		"byline": "by the1dynasty",
-		"file_size": 474714
-	},
-	{
-		"full_src": "wall_9.png",
-		"thumb_src": "wall_9_thumb.jpg",
-		"title": "Starry Road",
-		"byline": "by the1dynasty",
-		"file_size": 1682198
-	},
-	{
-		"full_src": "wall_10.jpg",
-		"thumb_src": "wall_10_thumb.jpg",
-		"title": "BloomSpace",
-		"byline": "by Bobby McKenzie",
-		"file_size": 1265307
-	},
-	{
-		"full_src": "wall_11.png",
-		"thumb_src": "wall_11_thumb.png",
-		"title": "Dancing Angles - 1",
-		"byline": "by the1dynasty",
-		"file_size": 787559
-	},
-	{
-		"full_src": "wall_12.png",
-		"thumb_src": "wall_12_thumb.png",
-		"title": "Dancing Angles - 2",
-		"byline": "by the1dynasty",
-		"file_size": 840696
-	},
-	{
-		"full_src": "wall_13.png",
-		"thumb_src": "wall_13_thumb.png",
-		"title": "Dancing Angles - 3",
-		"byline": "by the1dynasty",
-		"file_size": 872345
-	},
-	{
-		"full_src": "wall_14.png",
-		"thumb_src": "wall_14_thumb.png",
-		"title": "Triangles",
-		"byline": "by Samer Zayer",
-		"file_size": 1128159
-	},
-	{
-		"full_src": "wall_15.png",
-		"thumb_src": "wall_15_thumb.png",
-		"title": "Campfire",
-		"byline": "by Knate Myers",
-		"file_size": 2653211
-	}
-]
+{
+  "wallpapers": [
+    {
+      "author": "the1Dynasty",
+      "url": "https://raw.githubusercontent.com/the1dynasty/icons_json/master/lucent/walls/star_roots.png",
+      "name": "Rooted Tree",
+      "thumbnail": "https://raw.githubusercontent.com/the1dynasty/icons_json/master/lucent/walls/star_roots_thumb.png"
+    },
+    {
+      "author": "the1Dynasty",
+      "url": "https://raw.githubusercontent.com/the1dynasty/icons_json/master/lucent/walls/star_roots_lucent.png",
+      "name": "Rooted Tree Lucent",
+      "thumbnail": "https://raw.githubusercontent.com/the1dynasty/icons_json/master/lucent/walls/star_roots_lucent_thumb.png"
+    },
+    {
+      "author": "the1Lucent",
+      "url": "https://raw.githubusercontent.com/the1dynasty/icons_json/master/lucent/walls/wall_1.png",
+      "name": "OG Lucent",
+      "thumbnail": "https://raw.githubusercontent.com/the1dynasty/icons_json/master/lucent/walls/wall_1_thumb.png"
+    },
+    {
+      "author": "the1Lucent",
+      "url": "https://raw.githubusercontent.com/the1dynasty/icons_json/master/lucent/walls/wall_9.png",
+      "name": "Star Road",
+      "thumbnail": "https://raw.githubusercontent.com/the1dynasty/icons_json/master/lucent/walls/wall_9_thumb.png"
+    }
+  ]
+}
