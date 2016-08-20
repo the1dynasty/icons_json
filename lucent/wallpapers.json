@@ -2,6 +2,12 @@
   "wallpapers": [
     {
       "author": "the1Dynasty",
+      "url": "https://raw.githubusercontent.com/the1dynasty/icons_json/master/lucent/walls/space_dust.jpg",
+      "name": "Space Dust",
+      "thumbnail": "https://raw.githubusercontent.com/the1dynasty/icons_json/master/lucent/walls/space_dust_thumb.jpg"
+    },
+    {
+      "author": "the1Dynasty",
       "url": "https://raw.githubusercontent.com/the1dynasty/icons_json/master/lucent/walls/scattered_abb2.png",
       "name": "Scattered ABB",
       "thumbnail": "https://raw.githubusercontent.com/the1dynasty/icons_json/master/lucent/walls/scattered_abb2_thumb.png"
